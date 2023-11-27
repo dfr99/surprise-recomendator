@@ -1,0 +1,19 @@
+Amazon
+
+- Productos que viches
+- Productos que compraches
+- Tendencias de compra
+- Productos destacados
+- Historial de búsqueda?
+
+- "Cosas que puede que te gusten" en base a lo visto/comprado anteriormente, datos históricos. Estellas de 1-5
+- Se muestran ya en la pantalla principal (en base a tus preferencias), visualización de un producto (productos similares)... En todo momento.
+- Se obtienen de la navegación del usuario a través de la página, puntuaciones, listas de productos que el usuario posee. 
+- "Ofertas para ti", otros usuarios, etc.
+
+Netflix
+
+- 3 niveles (like, don't like, love)
+- En cualquier momento (salvo visualización)
+- Puntuaciones + info implícita
+- Porcentaje de similitud 
